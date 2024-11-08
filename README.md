@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emreyigit-tasdelen
 - 👀 I’m interested in 🖥️
-- 🌱 I’m currently learning js
+- 🌱 I’m currently cmpe student
 - 📫 How to reach me https://www.linkedin.com/in/emre-yi%C4%9Fit-ta%C5%9Fdelen-06438a269/
